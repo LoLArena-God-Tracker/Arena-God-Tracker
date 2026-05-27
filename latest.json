@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.0",
   "downloadUrl": "https://github.com/LoLArena-God-Tracker/Arena-God-Tracker/releases/latest",
-  "releaseNotes": "Added League-style visuals, faster syncing, settings, and update checks."
+  "releaseNotes": "Rebuilt the champion grid with a virtual canvas renderer for much faster scrolling and resizing."
 }
